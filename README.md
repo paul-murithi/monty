@@ -1,4 +1,4 @@
-# monty - A pair project done by Paul Murithi and Wanjiru Ngugi.
+# monty - A group project done by Paul Murithi and Wanjiru Ngugi.
 
 # General topics covered
 What do LIFO and FIFO mean.
